@@ -52,7 +52,9 @@ The results are paginated with **10 users per page**, and filters remain applied
 5. **Start the server
    ```bash
    php artisan serve
-📜 License
-This project is open-source and available under the MIT License.
+   
+## Author
+Md. Shahin Alam
+https://github.com/shahinalam10
 
    
